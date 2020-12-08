@@ -1,0 +1,3 @@
+[console_scripts]
+bf = brainfuck_fuck.__main__:main
+
